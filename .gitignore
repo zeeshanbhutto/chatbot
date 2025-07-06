@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual Environment
+venv/
+zeshan/
+env/
+
+# dotenv environment variable file
+.env
+s
+
+
+# VSCode
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Logs and cache
+*.lo*
