@@ -47,7 +47,7 @@ You can deploy this easily by:
 
 Creating a GitHub repo with this code.
 
-Going to https://streamlit.io/cloud
+Going to https://chatbot-w6wwtoydzkr9bfmxcuzfqf.streamlit.app/
 
 Connecting your GitHub, selecting the repo.
 
